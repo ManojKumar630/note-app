@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/note-app/static/js/main.88216226.chunk.js",
+    "main.js.map": "/note-app/static/js/main.88216226.chunk.js.map",
+    "runtime~main.js": "/note-app/static/js/runtime~main.a60a26f2.js",
+    "runtime~main.js.map": "/note-app/static/js/runtime~main.a60a26f2.js.map",
+    "static/js/2.ae026ab9.chunk.js": "/note-app/static/js/2.ae026ab9.chunk.js",
+    "static/js/2.ae026ab9.chunk.js.map": "/note-app/static/js/2.ae026ab9.chunk.js.map",
+    "index.html": "/note-app/index.html",
+    "precache-manifest.be075a15a15af860645330653a8fe153.js": "/note-app/precache-manifest.be075a15a15af860645330653a8fe153.js",
+    "service-worker.js": "/note-app/service-worker.js"
+  }
+}
